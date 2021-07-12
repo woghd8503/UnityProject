@@ -1,5 +1,0 @@
-sceneSetups:
-- path: D:/_01_BitCampLecture/04.Unity/21.LegacyAnimationEx/Assets/01.Scenes/LegacyAnimation.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
